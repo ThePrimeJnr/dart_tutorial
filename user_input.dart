@@ -1,0 +1,3 @@
+void main() {
+  // User input
+}
