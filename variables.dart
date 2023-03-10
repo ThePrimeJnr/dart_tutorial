@@ -6,18 +6,18 @@ void main() {
 
   //String
   //var name = "Destiny Saturday";
-  String name = "Destiny Saturday";
+  //String name = "Destiny Saturday";
 
   //int
   // var age = 20;
-  int age = 20;
+  //int age = 20;
 
   //Dynamic
-  dynamic firstName = "Destiny";
+  //dynamic firstName = "Destiny";
 
   //Const
-  const String fullName = "Destiny Saturday";
-  final String nickName = "Dee";
+  //const String fullName = "Destiny Saturday";
+  //final String nickName = "Dee";
 
   print(myName);
 
