@@ -5,6 +5,8 @@ void main() {
   print('Enter your name: ');
 
   // allow user to enter their name
-  var name = stdin.readLineSync();
+  //var name = stdin.readLineSync();
+  String? name = stdin.readLineSync();
+
   print('Hello $name');
 }
